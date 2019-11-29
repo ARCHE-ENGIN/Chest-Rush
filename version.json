@@ -7,6 +7,10 @@
 
 		"Tree" : [
 
+			["REM","./engine/testfolder/"],
+
+			["CRE","./INTER/","essai.json"],
+
 		]
 	}
 }
