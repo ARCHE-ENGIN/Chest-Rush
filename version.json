@@ -12,5 +12,7 @@
 			["REM","./engine/testfolder/"],
 			
 			 ["CRE","./config/lol/"]
+			
+		]
 	}
 }
