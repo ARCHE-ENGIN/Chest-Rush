@@ -1,7 +1,7 @@
 {
 	"Chest Rush" : {
 
-		"Version" : "0.0.2.al",
+		"Version" : "0.0.3.al",
 		
 		"Description" : "MAJOR UPDATE",
 
@@ -9,9 +9,9 @@
 		
 		"Tree" : [
 			
-			["REM","./config/lol/"],
+			["CRE","./config/WTF/"],
 			
-			["REM","./engine/content.txt"]
+			["CRE","./engine/salut.txt","Salut les nazes !"]
 			
 		]
 	}
