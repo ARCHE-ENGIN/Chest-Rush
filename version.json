@@ -11,7 +11,9 @@
 			
 			["REM","./engine/testfolder/"],
 			
-			 ["CRE","./config/lol/"]
+			 ["CRE","./config/lol/"],
+			
+			["CRE","./config/lol/test.txt","Contenu du fichier"],
 			
 		]
 	}
