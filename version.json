@@ -6,13 +6,5 @@
 		"Description" : "MAJOR UPDATE",
 
 		"Notes" : "notes.txt",
-
-		"Tree" : [
-
-			["REM","./engine/testfolder/"],
-
-			["CRE","./INTER/","essai.json"]
-
-		]
 	}
 }
