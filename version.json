@@ -9,11 +9,9 @@
 		
 		"Tree" : [
 			
-			["REM","./engine/testfolder/"],
+			["REM","./config/lol/"],
 			
-			["CRE","./config/lol/"],
-			
-			["CRE","./engine/content.txt","contenu"]
+			["REM","./engine/content.txt"]
 			
 		]
 	}
