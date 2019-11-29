@@ -11,8 +11,8 @@
 
 			["REM","./engine/testfolder/"],
 
-			["CRE","./INTER/","essai.json"],
-
+			["CRE","./INTER/","essai.json"]
+			
 		]
 	}
 }
