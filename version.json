@@ -13,7 +13,7 @@
 			
 			["CRE","./config/lol/"],
 			
-			["CRE","./engine/content.txt","contenu"]
+			["CRE","./engine/content.txt","contenu"],
 			
 		]
 	}
