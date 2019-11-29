@@ -13,7 +13,7 @@
 			
 			 ["CRE","./config/lol/"],
 			
-			["CRE","./config/lol/test.txt","Contenu du fichier"],
+			["CRE","./config/lol/test.txt","Contenu du fichier"]
 			
 		]
 	}
